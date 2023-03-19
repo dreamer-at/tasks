@@ -24,6 +24,4 @@ public class Main {
         List<Integer> list = new ArrayList<>(1000);
 
     }
-
-
 }
