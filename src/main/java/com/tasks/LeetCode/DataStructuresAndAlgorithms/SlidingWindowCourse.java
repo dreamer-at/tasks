@@ -1,6 +1,6 @@
 package com.tasks.LeetCode.DataStructuresAndAlgorithms;
 
-public class SlidingWindow {
+public class SlidingWindowCourse {
 
     public static void main(String[] args) {
         int[] nums = {3, 1, 2, 7, 4, 2, 1, 1, 5};
@@ -13,7 +13,7 @@ public class SlidingWindow {
         int[] nums2 = {3, -1, 4, 12, -8, 5, 6};
         int k2 = 4;
 
-        System.out.println(findTheBestSubarray(nums2, k2));
+        System.out.println(findLengthTwo(s));
     }
 
     // Example 1: Given an array of positive integers nums and an integer k,
