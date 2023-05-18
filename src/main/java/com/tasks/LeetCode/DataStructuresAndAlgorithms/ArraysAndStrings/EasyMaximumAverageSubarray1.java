@@ -1,4 +1,4 @@
-package com.tasks.LeetCode.DataStructuresAndAlgorithms;
+package com.tasks.LeetCode.DataStructuresAndAlgorithms.ArraysAndStrings;
 
 public class EasyMaximumAverageSubarray1 {
 
